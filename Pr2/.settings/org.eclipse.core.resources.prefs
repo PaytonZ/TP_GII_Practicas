@@ -1,0 +1,16 @@
+eclipse.preferences.version=1
+encoding//src/tp/pr2/Action.java=UTF-8
+encoding//src/tp/pr2/City.java=UTF-8
+encoding//src/tp/pr2/CodeCard.java=UTF-8
+encoding//src/tp/pr2/Direction.java=UTF-8
+encoding//src/tp/pr2/Fuel.java=UTF-8
+encoding//src/tp/pr2/Garbage.java=UTF-8
+encoding//src/tp/pr2/Instruction.java=UTF-8
+encoding//src/tp/pr2/Interpreter.java=UTF-8
+encoding//src/tp/pr2/Item.java=UTF-8
+encoding//src/tp/pr2/ItemContainer.java=Cp1252
+encoding//src/tp/pr2/Main.java=UTF-8
+encoding//src/tp/pr2/Place.java=UTF-8
+encoding//src/tp/pr2/RobotEngine.java=UTF-8
+encoding//src/tp/pr2/Rotation.java=UTF-8
+encoding//src/tp/pr2/Street.java=UTF-8
